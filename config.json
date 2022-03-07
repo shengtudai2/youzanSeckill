@@ -1,0 +1,24 @@
+{
+"UserInfo": {
+    "msg1": "留言1",
+    "msg2": "留言2",
+    "msg3": "留言3",
+    "cookie": "KDTSESSIONID=YZ942524503952564224YZ3oa1zBkB"},
+  "Config": {
+    "kdt_id" : "43972122",
+    "shopId" : "shop44164290",
+    "keyWords": "九价",
+    "blackWords": "",
+    "onSail": false
+  },
+
+  "Time": {
+    "enableTiming": false,
+    "startTime": "12:19:59",
+    "interval": 1,
+    "maxTry": 100000,
+    "num": 1
+  }
+}
+
+
